@@ -75,7 +75,7 @@ function App() {
   return (
     <div className="page-shell">
       <header className="hero">
-        <p className="eyebrow">GO VIRAL CLONE</p>
+        <p className="eyebrow">VIRALSPARK AI</p>
         <h1>AI Content Virality Analyzer</h1>
         <p>
           Upload your video or image, get a virality score, and receive concrete edits for hook,

@@ -1,6 +1,6 @@
-# Go Viral Clone - AI Content Virality Analyzer
+# ViralSpark AI - Content Virality Analyzer
 
-This project is a challenge-ready clone inspired by **Go Viral: AI Creator Assistant**.
+ViralSpark AI is a challenge-ready app inspired by **Go Viral: AI Creator Assistant**.
 
 ## What it does
 
@@ -40,6 +40,10 @@ npm run build
    - See `src/lib/analyzer.ts` for scoring logic
 5. **Reflection**
    - Add a short section on trade-offs and next improvements
+
+## Demo video script
+
+Follow the step-by-step narration in [LOOM_SCRIPT.md](LOOM_SCRIPT.md) while you record.
 
 ## Tech
 
