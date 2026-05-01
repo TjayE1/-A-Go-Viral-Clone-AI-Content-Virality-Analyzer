@@ -29,4 +29,4 @@ Files referenced in this submission:
 - `src/lib/analyzer.ts` — scoring heuristics
 - `src/App.tsx` — UI and flows
 - `LOOM_SCRIPT.md` — suggested recording script
-- `log.md` — AI development log with prompt history
+- `ai-logs.md` — AI development log with prompt history
